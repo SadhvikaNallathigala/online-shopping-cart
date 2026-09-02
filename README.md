@@ -36,7 +36,7 @@ The project is developed to demonstrate practical backend development concepts i
 
 The application follows a layered architecture to maintain separation of concerns and make the application easier to maintain and extend.
 
-```text
+```text 
                     Client
                       │
                       ▼
