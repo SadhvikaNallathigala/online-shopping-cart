@@ -1,7 +1,7 @@
 # 🛒 Online Shopping Cart   
 
 A backend-based **Online Shopping Cart application** developed using **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**. This project implements the core functionality of an e-commerce shopping cart system through RESTful APIs and follows a clean layered architecture.
-  
+   
 ## 📌 Project Overview       
 
 The Online Shopping Cart is a Spring Boot REST API application that allows products to be managed and added to shopping carts.
