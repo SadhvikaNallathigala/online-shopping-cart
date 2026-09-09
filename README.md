@@ -10,7 +10,7 @@ The application provides functionality to create, view, update, and delete produ
 
 The project is developed to demonstrate practical backend development concepts including REST APIs, CRUD operations, database integration, JPA/Hibernate, DTOs, validation, exception handling, pagination, and Swagger API documentation.
 
-## ✨ Features
+## ✨ Features 
 
 - Product Management
 - Shopping Cart Management
